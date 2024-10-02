@@ -57,6 +57,7 @@
                     </div>
                     <div class="col-xs-12">
                         <div class="form-group">
+                            {{-- CVC means "Card Verification Code" --}}
                             <label for="card-cvc">CVC</label>
                             <input type="text" id="card-cvc" class="form-control" required>
                         </div>
